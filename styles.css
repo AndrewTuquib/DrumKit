@@ -67,6 +67,10 @@ footer {
   color: red;
 }
 
+.container {
+  margin-top: 200px;
+}
+
 .drum {
   outline: none;
   border: 10px solid #404B69;
